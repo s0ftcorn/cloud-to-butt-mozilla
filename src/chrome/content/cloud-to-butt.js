@@ -35,6 +35,10 @@
         v = v.replace(/\bThe cloud\b/g, "My butt");
         v = v.replace(/\bthe Cloud\b/g, "my Butt");
         v = v.replace(/\bthe cloud\b/g, "my butt");
+	v = v.replace(/\bdie Cloud\b/g, "meinen Popo");
+	v = v.replace(/\bdie cloud\b/g, "meinen popo");
+	v = v.replace(/\cloud\b/g, "popo");
+	v = v.replace(/\bCloud\b/g, "Popo");
     
         textNode.nodeValue = v;
     }

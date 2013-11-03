@@ -5,7 +5,8 @@ Now available in german! :)
 
 ## Installing
 
-Download [CloudToButt.xpi](https://github.com/DaveRandom/cloud-to-butt-mozilla/blob/master/CloudToButt.xpi?raw=true)
+Download [CloudToButt.xpi](https://github.com/s0ftcorn/cloud-to-butt-mozilla/blob/master/CloudToButt.xpi?raw=true)
+
 
 
 ## Building
